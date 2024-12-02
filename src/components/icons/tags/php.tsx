@@ -5,4 +5,3 @@ export const PHPIcon = (props: SVGProps<SVGSVGElement>) => (
     <path fill="#777bb3" d="M5 3h14v18H5zM4 10h16v4H4z" />
   </svg>
 )
-

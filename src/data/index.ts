@@ -43,7 +43,7 @@ export const ABOUT = {
    Passionate about creating seamless, user-focused solutions that integrate cutting-edge technology and intuitive design.
    I strive to deliver impactful applications that make a difference, emphasizing social impact and innovation. 
    Dedicated to leveraging advanced tools and frameworks to enhance web application functionality, scalability, 
-   and user experience, ensuring robust and efficient solutions for every project.`,
+   and user experience, ensuring robust and efficient solutions for every project.`
 }
 
 export const LINKS = [
@@ -95,7 +95,7 @@ export const CAREER = [
     'Gaining proficiency in security tools like firewalls, antivirus software, and intrusion detection systems.',
     'Exploring the basics of data protection, secure coding practices, and compliance with cybersecurity standards.'
         ]
-      },
+      }
     ]
   },
   {
@@ -110,7 +110,7 @@ export const CAREER = [
           'Pursuing comprehensive studies in Frontend Development, .NET and C#, Java, Python, and Android Development.',
     'Gained hands-on experience in software testing methodologies and best practices.',
     'Developed and deployed applications using modern frameworks and programming languages.',
-    'Enhanced problem-solving skills by working on diverse projects involving mobile and web development.',
+    'Enhanced problem-solving skills by working on diverse projects involving mobile and web development.'
         ]
       },
     ]
@@ -145,7 +145,7 @@ export const CAREER = [
     'Developed and optimized mobile app interfaces to ensure responsive and intuitive designs.',
     'Collaborated with cross-functional teams to integrate backend APIs with seamless frontend functionality.'
         ]
-      },
+      }
     ]
   },
   {
@@ -161,9 +161,9 @@ export const CAREER = [
           'Studied foundational and advanced concepts in programming, including C, C++, Java, and Python.',
     'Developed skills in Database Management Systems (DBMS) for efficient data handling and storage solutions.',
     'Explored Android Development, focusing on creating user-friendly mobile applications.',
-    'Engaged in academic projects that enhanced problem-solving and critical-thinking abilities in software development.',
+    'Engaged in academic projects that enhanced problem-solving and critical-thinking abilities in software development.'
         ]
-      },
+      }
     ]
   },
   {
@@ -175,9 +175,9 @@ export const CAREER = [
         start: 'July, 2019',
         end: 'May, 2020',
         description: [
-          'Completed with 55%',
+          'Completed with 55%'
         ]
-      },
+      }
     ]
   },
   {
@@ -189,39 +189,39 @@ export const CAREER = [
         start: 'JUNE, 2017',
         end: 'APRIL, 2018',
         description: [
-          'Completed with 80%',
+          'Completed with 80%'
         ]
-      },
+      }
     ]
-  },
+  }
 ]
 
 const TAGS = {
-  JAVA:{
+  JAVA: {
     name: 'Java',
     icon: JavaIcon
   },
-  CSHARP:{
+  CSHARP: {
     name: 'c#',
     icon: CSharpIcon
   },
-  PHP:{
+  PHP: {
     name: 'PHP',
     icon: PHPIcon
   },
-  ANDROID:{
+  ANDROID: {
     name: 'Android Studio',
     icon: AndroidStudioIcon
   },
-  FIREBASE:{
+  FIREBASE: {
     name: 'Firebase',
     icon: FirebaseIcon
   },
-  MYSQL:{
+  MYSQL: {
     name: 'MySql',
     icon: MySQLIcon
   },
-  XML:{
+  XML: {
     name: 'XML',
     icon: XMLIcon
   },
@@ -375,5 +375,5 @@ export const PROJECTS = [
         github: 'https://github.com/'
       },
     image: '/'
-  },
+  }
 ]

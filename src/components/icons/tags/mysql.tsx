@@ -5,4 +5,3 @@ export const MySQLIcon = (props: SVGProps<SVGSVGElement>) => (
     <path fill="#00618c" d="M8 2h8v16H8zM4 10h16v4H4z" />
   </svg>
 )
-

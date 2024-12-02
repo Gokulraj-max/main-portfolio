@@ -5,4 +5,3 @@ export const XMLIcon = (props: SVGProps<SVGSVGElement>) => (
     <path fill="#f4f4f4" d="M5 3h14v18H5z" />
   </svg>
 )
-

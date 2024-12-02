@@ -9,5 +9,3 @@ export const CSharpIcon = (props: SVGProps<SVGSVGElement>) => (
       />
     </svg>
   )
-  
-  
