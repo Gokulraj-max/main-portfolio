@@ -31,7 +31,6 @@ import { MySQLIcon } from '@/components/icons/tags/mysql'
 import { XMLIcon } from '@/components/icons/tags/xml'
 import { CSharpIcon } from '@/components/icons/tags/csharp'
 
-
 import { FileTextIcon, icons, LinkIcon, MailIcon } from 'lucide-react'
 
 export const AVATAR = {
@@ -40,7 +39,7 @@ export const AVATAR = {
 }
 
 export const ABOUT = {
-  title: "Aspiring Full-Stack Developer | Design and Innovation Enthusiast",
+  title: 'Aspiring Full-Stack Developer | Design and Innovation Enthusiast',
   description: `Specialized in full-stack development with expertise in both frontend and backend technologies.
    Passionate about creating seamless, user-focused solutions that integrate cutting-edge technology and intuitive design.
    I strive to deliver impactful applications that make a difference, emphasizing social impact and innovation. 
@@ -84,7 +83,6 @@ export const LINKS = [
 export const CAREER = [
   {
     company: 'Cyber Security',
-    //link: 'https://github.com/thefrontendlab',
     badges: ['Full-Time'],
     jobs: [
       {
@@ -103,7 +101,6 @@ export const CAREER = [
   },
   {
     company: 'Master of Computer Applications',
-    //link: 'https://github.com/thefrontendlab',
     badges: ['Full-Time'],
     jobs: [
       {
@@ -119,10 +116,8 @@ export const CAREER = [
       },
     ]
   },
-
   {
     company: 'Technology for Data Science',
-    //link: 'https://github.com/thefrontendlab',
     badges: ['Course'],
     jobs: [
       {
@@ -138,10 +133,8 @@ export const CAREER = [
       },
     ]
   },
-
   {
     company: 'Mobile Application Development',
-    //link: 'https://github.com/thefrontendlab',
     badges: ['Course'],
     jobs: [
       {
@@ -152,17 +145,12 @@ export const CAREER = [
           "Researched and implemented modern frontend technologies and tools to enhance application performance and user experience.",
     "Developed and optimized mobile app interfaces to ensure responsive and intuitive designs.",
     "Collaborated with cross-functional teams to integrate backend APIs with seamless frontend functionality."
-  
         ]
       },
     ]
   },
-
-  
-
   {
     company: 'Batcholer of Computer Applications',
- 
     badges: ['Full-Time'],
     jobs: [
       {
@@ -179,10 +167,8 @@ export const CAREER = [
       },
     ]
   },
-
   {
     company: 'HSC',
-    //link: 'https://github.com/thefrontendlab',
     badges: ['Full-Time'],
     jobs: [
       {
@@ -195,10 +181,8 @@ export const CAREER = [
       },
     ]
   },
-
   {
     company: 'SSLC',
-    //link: 'https://github.com/thefrontendlab',
     badges: ['Full-Time'],
     jobs: [
       {
@@ -340,8 +324,7 @@ export const PROJECTS = [
       TAGS.CSS,
       TAGS.JAVASCRIPT,
       TAGS.PHP,
-      TAGS.MYSQL  
-  
+      TAGS.MYSQL
     ],
     description:
       'A simple yet powerful resume builder application built with HTML, CSS, JavaScript, and PHP. This tool allows users to create and customize professional resumes quickly and easily. The frontend uses HTML and CSS for design, JavaScript for interactivity, and PHP to handle data processing and saving.',
@@ -358,7 +341,6 @@ export const PROJECTS = [
       TAGS.ANDROID,
       TAGS.FIREBASE,
       TAGS.JAVA
-   
     ],
     description:
       'A mobile app that connects students with skilled tutors to learn musical instruments and purchase quality instruments. The app provides a comprehensive platform for students to access notes, complete tasks, and view schedules, while tutors can upload content and track progress. The platform also includes a marketplace for purchasing musical instruments and offers payment options for convenience.',
@@ -374,7 +356,6 @@ export const PROJECTS = [
       TAGS.ANDROID,
       TAGS.FIREBASE,
       TAGS.JAVA
-   
     ],
     description:
       'RR BowlDeveloped a mobile app for ordering biryani with delivery and integrated payment options, ensuring a smooth and user-friendly experience.',
@@ -383,13 +364,11 @@ export const PROJECTS = [
       },
     image: '/'
   },
-
   {
     title: 'Notepad Editor Using C#',
     tags: [
       TAGS.CSHARP,
-      TAGS.MYSQL 
-   
+      TAGS.MYSQL
     ],
     description:
       "Created a system-based Notepad application providing text editing and file management features.Implemented core functionalities to enhance user experience in managing plain text files.",
