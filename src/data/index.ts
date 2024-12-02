@@ -357,7 +357,7 @@ export const PROJECTS = [
       TAGS.JAVA
     ],
     description:
-      'RR BowlDeveloped a mobile app for ordering biryani with delivery and integrated payment options, ensuring a smooth and user-friendly experience.',
+      'RR Bowl Developed a mobile app for ordering biryani with delivery and integrated payment options, ensuring a smooth and user-friendly experience.',
       link: {
         github: 'https://github.com/'
       },
