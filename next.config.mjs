@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-require('dotenv').config();
+import { config } from 'dotenv';
 
 const nextConfig = {
   output: 'export',
