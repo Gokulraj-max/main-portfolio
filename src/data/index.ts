@@ -30,8 +30,7 @@ import { FirebaseIcon } from '@/components/icons/tags/firebase'
 import { MySQLIcon } from '@/components/icons/tags/mysql'
 import { XMLIcon } from '@/components/icons/tags/xml'
 import { CSharpIcon } from '@/components/icons/tags/csharp'
-
-import { FileTextIcon, icons, LinkIcon, MailIcon } from 'lucide-react'
+import { FileTextIcon, LinkIcon, MailIcon } from 'lucide-react'
 
 export const AVATAR = {
   name: 'Govinth',
@@ -90,11 +89,11 @@ export const CAREER = [
         start: 'July, 2024',
         end: 'Present',
         description: [
-         "Building a strong foundation in cybersecurity principles, including network security, cryptography, and ethical hacking.",
-    "Learning the fundamentals of securing systems, identifying vulnerabilities, and preventing cyber threats.",
-    "Understanding various types of malware, phishing attacks, and their mitigation strategies.",
-    "Gaining proficiency in security tools like firewalls, antivirus software, and intrusion detection systems.",
-    "Exploring the basics of data protection, secure coding practices, and compliance with cybersecurity standards."
+         'Building a strong foundation in cybersecurity principles, including network security, cryptography, and ethical hacking.',
+    'Learning the fundamentals of securing systems, identifying vulnerabilities, and preventing cyber threats.',
+    'Understanding various types of malware, phishing attacks, and their mitigation strategies.',
+    'Gaining proficiency in security tools like firewalls, antivirus software, and intrusion detection systems.',
+    'Exploring the basics of data protection, secure coding practices, and compliance with cybersecurity standards.'
         ]
       },
     ]
@@ -108,10 +107,10 @@ export const CAREER = [
         start: 'July, 2023',
         end: 'Present',
         description: [
-          "Pursuing comprehensive studies in Frontend Development, .NET and C#, Java, Python, and Android Development.",
-    "Gained hands-on experience in software testing methodologies and best practices.",
-    "Developed and deployed applications using modern frameworks and programming languages.",
-    "Enhanced problem-solving skills by working on diverse projects involving mobile and web development.",
+          'Pursuing comprehensive studies in Frontend Development, .NET and C#, Java, Python, and Android Development.',
+    'Gained hands-on experience in software testing methodologies and best practices.',
+    'Developed and deployed applications using modern frameworks and programming languages.',
+    'Enhanced problem-solving skills by working on diverse projects involving mobile and web development.',
         ]
       },
     ]
@@ -125,10 +124,10 @@ export const CAREER = [
         start: 'January, 2024',
         end: 'April, 2024',
         description: [
-          "Explored and utilized modern technologies and tools essential for data science applications.",
-        "Developed and implemented algorithms to analyze and interpret complex datasets.",
-        "Worked on real-world projects to apply machine learning techniques and data visualization strategies.",
-        "Collaborated on designing scalable solutions for processing and managing large data volumes."
+          'Explored and utilized modern technologies and tools essential for data science applications.',
+        'Developed and implemented algorithms to analyze and interpret complex datasets.',
+        'Worked on real-world projects to apply machine learning techniques and data visualization strategies.',
+        'Collaborated on designing scalable solutions for processing and managing large data volumes.'
         ]
       },
     ]
@@ -142,9 +141,9 @@ export const CAREER = [
         start: 'July, 2023',
         end: 'December, 2023',
         description: [
-          "Researched and implemented modern frontend technologies and tools to enhance application performance and user experience.",
-    "Developed and optimized mobile app interfaces to ensure responsive and intuitive designs.",
-    "Collaborated with cross-functional teams to integrate backend APIs with seamless frontend functionality."
+          'Researched and implemented modern frontend technologies and tools to enhance application performance and user experience.',
+    'Developed and optimized mobile app interfaces to ensure responsive and intuitive designs.',
+    'Collaborated with cross-functional teams to integrate backend APIs with seamless frontend functionality.'
         ]
       },
     ]
@@ -158,11 +157,11 @@ export const CAREER = [
         start: 'July, 2020',
         end: 'April, 2023',
         description: [
-          "Completed with 78%",
-          "Studied foundational and advanced concepts in programming, including C, C++, Java, and Python.",
-    "Developed skills in Database Management Systems (DBMS) for efficient data handling and storage solutions.",
-    "Explored Android Development, focusing on creating user-friendly mobile applications.",
-    "Engaged in academic projects that enhanced problem-solving and critical-thinking abilities in software development.",
+          'Completed with 78%',
+          'Studied foundational and advanced concepts in programming, including C, C++, Java, and Python.',
+    'Developed skills in Database Management Systems (DBMS) for efficient data handling and storage solutions.',
+    'Explored Android Development, focusing on creating user-friendly mobile applications.',
+    'Engaged in academic projects that enhanced problem-solving and critical-thinking abilities in software development.',
         ]
       },
     ]
@@ -200,31 +199,31 @@ export const CAREER = [
 const TAGS = {
   JAVA:{
     name: 'Java',
-    icon:JavaIcon
+    icon: JavaIcon
   },
   CSHARP:{
     name: 'c#',
-    icon:CSharpIcon
+    icon: CSharpIcon
   },
   PHP:{
     name: 'PHP',
-    icon:PHPIcon
+    icon: PHPIcon
   },
   ANDROID:{
     name: 'Android Studio',
-    icon:AndroidStudioIcon
+    icon: AndroidStudioIcon
   },
   FIREBASE:{
     name: 'Firebase',
-    icon:FirebaseIcon
+    icon: FirebaseIcon
   },
   MYSQL:{
     name: 'MySql',
-    icon:MySQLIcon
+    icon: MySQLIcon
   },
   XML:{
     name: 'XML',
-    icon:XMLIcon
+    icon: XMLIcon
   },
   NEXT: {
     name: 'Next.js',
@@ -371,7 +370,7 @@ export const PROJECTS = [
       TAGS.MYSQL
     ],
     description:
-      "Created a system-based Notepad application providing text editing and file management features.Implemented core functionalities to enhance user experience in managing plain text files.",
+      'Created a system-based Notepad application providing text editing and file management features.Implemented core functionalities to enhance user experience in managing plain text files.',
       link: {
         github: 'https://github.com/'
       },
