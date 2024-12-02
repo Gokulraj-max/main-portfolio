@@ -44,7 +44,7 @@ export const ABOUT = {
    I strive to deliver impactful applications that make a difference, emphasizing social impact and innovation. 
    Dedicated to leveraging advanced tools and frameworks to enhance web application functionality, scalability, 
    and user experience, ensuring robust and efficient solutions for every project.`,
-};
+}
 
 export const LINKS = [
   {
