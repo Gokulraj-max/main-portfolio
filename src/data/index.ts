@@ -112,7 +112,7 @@ export const CAREER = [
     'Developed and deployed applications using modern frameworks and programming languages.',
     'Enhanced problem-solving skills by working on diverse projects involving mobile and web development.'
         ]
-      },
+      }
     ]
   },
   {
@@ -129,7 +129,7 @@ export const CAREER = [
         'Worked on real-world projects to apply machine learning techniques and data visualization strategies.',
         'Collaborated on designing scalable solutions for processing and managing large data volumes.'
         ]
-      },
+      }
     ]
   },
   {
