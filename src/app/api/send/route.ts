@@ -5,7 +5,7 @@ import { type ContactEmailTemplateProps } from '@/types'
 
 export const runtime = 'edge'
 
-const resend = new Resend('re_ReGujLZi_FmQtM7gDi7RMufMgYK1L5VgS')
+const resend = new Resend(process.env.RESEND_API_KEY)
 
 export async function POST(request: Request) {
   const { firstName, lastName, email, message } =
